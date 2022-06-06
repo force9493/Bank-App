@@ -1,0 +1,14 @@
+C:\Users\Dev\Documents\Bank-App\Bank-App\bin\Debug\netcoreapp3.1\Bank-App.exe
+C:\Users\Dev\Documents\Bank-App\Bank-App\bin\Debug\netcoreapp3.1\Bank-App.deps.json
+C:\Users\Dev\Documents\Bank-App\Bank-App\bin\Debug\netcoreapp3.1\Bank-App.runtimeconfig.json
+C:\Users\Dev\Documents\Bank-App\Bank-App\bin\Debug\netcoreapp3.1\Bank-App.runtimeconfig.dev.json
+C:\Users\Dev\Documents\Bank-App\Bank-App\bin\Debug\netcoreapp3.1\Bank-App.dll
+C:\Users\Dev\Documents\Bank-App\Bank-App\bin\Debug\netcoreapp3.1\Bank-App.pdb
+C:\Users\Dev\Documents\Bank-App\Bank-App\obj\Debug\netcoreapp3.1\Bank-App.csproj.AssemblyReference.cache
+C:\Users\Dev\Documents\Bank-App\Bank-App\obj\Debug\netcoreapp3.1\Bank-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\Bank-App\Bank-App\obj\Debug\netcoreapp3.1\Bank-App.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\Bank-App\Bank-App\obj\Debug\netcoreapp3.1\Bank-App.AssemblyInfo.cs
+C:\Users\Dev\Documents\Bank-App\Bank-App\obj\Debug\netcoreapp3.1\Bank-App.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\Bank-App\Bank-App\obj\Debug\netcoreapp3.1\Bank-App.dll
+C:\Users\Dev\Documents\Bank-App\Bank-App\obj\Debug\netcoreapp3.1\Bank-App.pdb
+C:\Users\Dev\Documents\Bank-App\Bank-App\obj\Debug\netcoreapp3.1\Bank-App.genruntimeconfig.cache
